@@ -1,4 +1,4 @@
-# Smart-solar-panal-system
+# Smart-solar-panel-system
 
 This projet is developed during Labs of the subject Industrie 4.0
 
